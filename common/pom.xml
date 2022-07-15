@@ -23,7 +23,7 @@
         <jedis.version>2.9.0</jedis.version>
         <cat.version>2.0.0</cat.version>
         <foundation-service.version>4.0.0</foundation-service.version>
-        <undertow.version>2.0.14.Final</undertow.version>
+        <undertow.version>2.2.15.Final</undertow.version>
         <javax.servlet-api.version>4.0.1</javax.servlet-api.version>
     </properties>
 
